@@ -60,7 +60,7 @@ graph TB
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Sahnik0/CampusCogni
+git clone https://github.com/MeAkash77/CampusCogni-Campus-Recruitment-Platform.git
 cd CampusCogni
 ```
 
@@ -509,7 +509,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Enterprise features
 
 ---
-
-**Built with ❤️ by the CampusCogni Team**
-
-*Empowering students and recruiters through technology*
