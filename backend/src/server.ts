@@ -156,11 +156,8 @@ const corsOptions = {
     if (!origin) return callback(null, true);
     
     const allowedOrigins = [
-      'http://localhost:3000',
       'https://campus-cogni-campus-recruitment-platform-af0vviudg.vercel.app', 
-      'https://campus-cogni-campus-recruitment-platf-git-dc5790-akash-d5052c73.vercel.app'
-      'https://campus-cogni-campus-recruitment-platform-i2rbusb05.vercel.app', // Allow preview deployments
-      // Add your actual production frontend URL here
+      'http://localhost:3000',
       process.env.FRONTEND_URL || 'https://campus-cogni-campus-recruitment-platform-af0vviudg.vercel.app/'
     ];
     
